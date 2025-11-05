@@ -1,7 +1,7 @@
 {
   "name": "elwensh-portfolio",
   "version": "0.1.0",
-  "homepage": "https://kareemalaa1.github.io/ElWeNsH-Portfolio",
+  "homepage": "https://kareemalaa1.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
